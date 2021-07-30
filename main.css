@@ -78,4 +78,7 @@ img {
 }
 img:hover {
   opacity: 0.35;
+  transition: 1.2s ease;
+  border-radius: 5px;
+  transform: scale(1.5);
 }
